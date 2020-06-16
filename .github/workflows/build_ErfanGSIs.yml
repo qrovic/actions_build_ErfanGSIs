@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://tdrive.manofuranium.workers.dev/RedmiNote7Pro_MIUI_20.6.11_MiRoom_10.0.zip
-  ROM_NAME: MIUI:MIROOM
-  ZIP_NAME: MIROOM
+  ROM_URL: http://tdrive.manofuranium.workers.dev/Miui12_Kosmos_by@itsRazor.zip
+  ROM_NAME: MIUI
+  ZIP_NAME: MIUI-KOSMOS
   TZ: Asia/Shanghai
 
 jobs:
