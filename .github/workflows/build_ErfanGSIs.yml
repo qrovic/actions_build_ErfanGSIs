@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://tdrive.manofuranium.workers.dev/Miui12_Kosmos_by@itsRazor.zip
+  ROM_URL: https://va1.androidfilehost.com/dl/wQ4SOgaKMeqhFs4Lf8YY9A/1592427150/8889791610682867905/MMX_2.2.0_violet_20.6.11_v12-10.zip
   ROM_NAME: MIUI
-  ZIP_NAME: MIUI-KOSMOS
+  ZIP_NAME: MMX
   TZ: Asia/Shanghai
 
 jobs:
