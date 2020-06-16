@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ayera.dl.sourceforge.net/project/miuiromports//Whyred/MASIK%20X/Masik%20X%2013.2%20v2%20Whyred%20port.zip
-  ROM_NAME: MIUI:MasikX
-  ZIP_NAME: MasikX
+  ROM_URL: http://tdrive.manofuranium.workers.dev/RedmiNote7Pro_MIUI_20.6.11_MiRoom_10.0.zip
+  ROM_NAME: MIUI:MIROOM
+  ZIP_NAME: MIROOM
   TZ: Asia/Shanghai
 
 jobs:
