@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://tdrive.manofuranium.workers.dev/RedmiNote7_MIUI_20.6.11_Kosmos2011_10.0.zip
-  ROM_NAME: MIUI
-  ZIP_NAME: MIUI_20.6.11_KOSMOS
+  ROM_URL: http://tdrive.manofuranium.workers.dev/YuMi_GSI-ZUI_(11.0.284)_Port-20200613-montana.zip
+  ROM_NAME: ZUI 
+  ZIP_NAME: ZUI_11.0.284
   TZ: Asia/Shanghai
 
 jobs:
