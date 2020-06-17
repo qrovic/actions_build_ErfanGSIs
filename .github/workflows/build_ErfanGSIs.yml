@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: http://tdrive.manofuranium.workers.dev/YuMi_GSI-ZUI_(11.0.284)_Port-20200613-montana.zip
   ROM_NAME: ZUI 
-  ZIP_NAME: ZUI_11.0.284
+  ZIP_NAME: ZUI
   TZ: Asia/Shanghai
 
 jobs:
