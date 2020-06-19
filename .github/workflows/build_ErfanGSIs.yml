@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://amack.vj.lc/PIXEL2_RPB1.200504.018_A11_ASUS_X00TD_public.zip
-  ROM_NAME: Pixel
-  ZIP_NAME: Pixelamack
+  ROM_URL: http://tdrive.manofuranium.workers.dev/PiXeN_PocoF1_10_@pocoports.zip
+  ROM_NAME: Generic
+  ZIP_NAME: Pixen
   TZ: Asia/Shanghai
 
 jobs:
