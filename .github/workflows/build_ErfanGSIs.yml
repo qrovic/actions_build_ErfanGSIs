@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_13.W.37_GLO_037_2006051457/OnePlus7Oxygen_13.W.37_OTA_037_all_2006051457_8a8e443f3247.zip
-  ROM_NAME: OxygenOS
-  ZIP_NAME: OxygenOS
+  ROM_URL: https://downloads.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv11/xiaomi.eu_multi_HMNote7Pro_V11.0.1.0.QFHCNXM_v11-10.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fxiaomi-eu-multilang-miui-roms%2Ffiles%2Fxiaomi.eu%2FMIUI-STABLE-RELEASES%2FMIUIv11%2F&ts=1593254647&use_mirror=nchc
+  ROM_NAME: MIUI
+  ZIP_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
